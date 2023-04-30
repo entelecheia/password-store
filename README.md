@@ -14,7 +14,7 @@ This is a template for a password store. It is based on the [pass](https://www.p
 - If you need to initialize a new password store manually, run `pass-init`.
 - If you need to generate a gpg key manually, run `dotfiles-setup-gpg`.
 
-## Helper commands
+## [Helper commands](https://dotfiles.entelecheia.ai/usage/pass/)
 
 - `pass-init`: Initialize a new password store.
 - `pass-push`: Push changes to the remote repository.
